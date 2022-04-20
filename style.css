@@ -8,7 +8,7 @@ body {
     color: #555;
 }
 header {
-    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
+    background: linear-gradient(to bottom right, rgb(92, 149, 235), rgb(20, 108, 240));
     color: white;
     padding: 25px;
 }
@@ -27,7 +27,7 @@ main h2 {
 /* Add Student Styles Below */
 .jane-style {
     color: hotpink;
-    background-color: black;
+    background-color: rgb(19, 19, 19);
     padding: 3px;
 }
 
